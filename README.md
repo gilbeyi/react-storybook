@@ -1,1 +1,5 @@
-# react-vite
+# React example
+
+- React
+- TypeScript
+- Vite
