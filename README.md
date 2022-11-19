@@ -1,5 +1,6 @@
-# React example
+# React demo
 
 - React
 - TypeScript
 - Vite
+- storybook
